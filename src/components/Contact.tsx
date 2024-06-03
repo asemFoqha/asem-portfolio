@@ -54,7 +54,7 @@ const Contact = () => {
               <i className="fa fa-map-marker"></i>
               <div>
                 <h2>Address</h2>
-                <div>Amman, alyadodah</div>
+                <div>woodbridge, NJ</div>
               </div>
             </div>
             <div className="info email">
@@ -68,7 +68,7 @@ const Contact = () => {
               <i className="fa fa-mobile"></i>
               <div>
                 <h2>Phone Number</h2>
-                <div>0786458424</div>
+                <div>(641) 557-0071 </div>
               </div>
             </div>
           </div>
