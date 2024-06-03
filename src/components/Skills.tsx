@@ -8,18 +8,45 @@ function Skills() {
         <h2 className="title">My Skills</h2>
         <div className="skills-content">
           <div data-aos="fade-up" className="skills__left">
-            <div className="text">My hard skills {"&"} experiences.</div>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi
-              ipsum totam doloribus sed dolorem distinctio repellendus sit
-              maxime! Totam repellat enim doloremque asperiores ratione, omnis
-              animi minus? Numquam error nisi debitis dolores, possimus tempore!
-              Fuga deleniti maiores, vitae a qui tempore aspernatur tempora
-              voluptates quos dolore cum necessitatibus neque, laboriosam
-              aliquam voluptatem doloribus quia voluptas eius dignissimos
-              reprehenderit ut impedit? Similique laborum saepe tenetur
-              blanditiis mollitia consequuntur ullam. Ad, quae!
-            </p>
+            <div className="text">Skills {"&"} Experiences.</div>
+            <ul>
+              <li>
+                <strong>Front-End Development:</strong> HTML5, SASS, CSS3,
+                JavaScript (ES5/ES6), React, Redux, TypeScript, jQuery, AJAX,
+                JSON, REST, Bootstrap
+              </li>
+              <li>
+                <strong>Libraries:</strong> React-router-dom, react-hook-form,
+                React query
+              </li>
+              <li>
+                <strong>Design Patterns:</strong> MVC, Singleton, Prototype,
+                Observer{" "}
+              </li>
+              <li>
+                <strong>Database:</strong> MySQL, MongoDB{" "}
+              </li>
+              <li>
+                <strong>Programming Languages:</strong> TypeScript, JavaScript{" "}
+              </li>
+              <li>
+                <strong>Operating Systems:</strong> Windows, Mac OS{" "}
+              </li>
+              <li>
+                <strong>SDLC (Development Methodologies):</strong> Agile / Scrum{" "}
+              </li>
+              <li>
+                <strong>Cloud Platforms:</strong> Vercel
+              </li>
+              <li>
+                <strong>Local development servers:</strong> Vite,
+                Create-react-app (CRA)
+              </li>
+              <li>
+                <strong>Tools & IDEs:</strong> GitHub, WebStorm, VS Code, Visual
+                Studio, Workbench, Figma, IntelliJ, ITerm, Adobe XD
+              </li>
+            </ul>
           </div>
 
           <div data-aos="fade-down" className="skills__right">
@@ -30,7 +57,7 @@ function Skills() {
             <div className="line html"></div>
 
             <div className="persentage">
-              React<span>60%</span>
+              React<span>85%</span>
             </div>
 
             <div className="line react"></div>
@@ -42,13 +69,13 @@ function Skills() {
             <div className="line css"></div>
 
             <div className="persentage">
-              JavaScript<span>75%</span>
+              JavaScript<span>90%</span>
             </div>
 
             <div className="line js"></div>
 
             <div className="persentage">
-              OPP<span>60%</span>
+              OPP<span>85%</span>
             </div>
 
             <div className="line opp"></div>

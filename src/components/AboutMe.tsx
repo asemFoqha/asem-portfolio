@@ -16,13 +16,12 @@ const AboutMe = () => {
           <div data-aos="fade-left" className="right">
             <div className="text">I'm Asem Alfoqha ...</div>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Blanditiis tenetur asperiores praesentium repellendus sit.
-              Perferendis, quam fuga. Iusto ipsam corrupti sit voluptatum? Eius
-              saepe libero dolores dignissimos necessitatibus quo veniam sit
-              deserunt alias quas. Consectetur eveniet ipsum doloremque iste id
-              porro unde, excepturi a corrupti consequatur minima fuga quaerat
-              voluptas?
+              Talented Software Engineer with 3 years of professional experience
+              contributing to all phases of software development of web
+              applications. Demonstrated expertise in enhancing front end
+              components and features by identifying and resolving bugs. Skilled
+              in using web technologies such as React JS, JavaScript,
+              TypeScript, HTML5, and CSS3.
             </p>
             <a href={zaid} download target="_blank" className="cv-download">
               Download CV
